@@ -19,6 +19,9 @@ Our datasets are fairly large so we utilized Google Drive for storage and access
 
 To run our short demo, use this link to download the unseen_originals dataset to have locally:  https://drive.google.com/drive/folders/156QEK8JuWnFqsHnptc--pRW0lYam8fis?usp=sharing
 
+To run our long demo you can download from the our Demo folder or from https://drive.google.com/drive/folders/10ldZfWHfqrv20AnGLO9QQdpr2S9493Tz?usp=sharing
+
+
 You will also need this file to use our pre-trained model:  https://drive.google.com/file/d/1LyMNrvk72AVxLWGEQP-B4DAm9wkoc93b/view?usp=sharing
 
 We utilized Tensorflow and Keras to make the magic happen.  It does require a few Python dependencies (yep, you have to have Python already installed). Using the pip command will make this fairly simple.  Enter the following steps in your command line to get going:
@@ -35,3 +38,20 @@ If you are having some issues, you can check out this resource for more details:
 Okay, you should be good-to-go! We have two demo options depending on how much time you have.  Open the demo folder above to let the fun begin.
   
 
+_____________________________________________________________________________
+Short Demo
+https://colab.research.google.com/drive/1te5e-wfNxUqyPRLCPVMau8Nf3AMlprOB?usp=sharing
+UnseenOriginals- https://drive.google.com/drive/folders/156QEK8JuWnFqsHnptc--pRW0lYam8fis?usp=sharing
+PreTrained- https://drive.google.com/file/d/1LyMNrvk72AVxLWGEQP-B4DAm9wkoc93b/view?usp=sharing
+_____________________________________________________________________________
+Long Demo 
+https://colab.research.google.com/drive/1te5e-wfNxUqyPRLCPVMau8Nf3AMlprOB?usp=sharing
+Smaller dataset- https://drive.google.com/drive/folders/10ldZfWHfqrv20AnGLO9QQdpr2S9493Tz?usp=sharing
+For Large Dataset Use Repo
+_____________________________________________________________________________
+
+If you are looking for a quick way to augment wav files checkout Graysons walkthrough
+https://colab.research.google.com/drive/1yl3aNLWl1qHWhtzitdaq91GRJhiqfMVD?usp=sharing
+
+Or his Ugly Auto-AudioAugmentor
+https://colab.research.google.com/drive/1TnD-WGQ8w4O03ktO-SQ-RWZOJpc949yK?usp=sharing
